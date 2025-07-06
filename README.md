@@ -4,7 +4,7 @@ Stay ahead of threats with these updated security best practices, validated by e
 
 ---
 
-## ✅ 1. Always Update Software & Devices
+## ⬆️ 1. Always Update Software & Devices
 - Patch operating systems, apps, routers, and firewalls promptly.
 - 32% of cyberattacks exploit unpatched systems.
 - **Automate updates** where possible.
@@ -30,7 +30,7 @@ Stay ahead of threats with these updated security best practices, validated by e
 
 ---
 
-## ⚠️ 4. Be Alert to Phishing, Smishing, and Vishing
+## 🎣 4. Be Alert to Phishing, Smishing, and Vishing
 - Watch out for suspicious emails, texts, and calls.
 - Verify requests by directly contacting the organization—**never click unexpected links**.
 
@@ -70,7 +70,7 @@ Stay ahead of threats with these updated security best practices, validated by e
 
 ---
 
-## 🔍 9. Minimize Personal Data Exposure
+## ⛓️ 9. Minimize Personal Data Exposure
 - Limit the amount of personal info shared online.
 - Protect your social media privacy settings.
 
